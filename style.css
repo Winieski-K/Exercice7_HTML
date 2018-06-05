@@ -1,0 +1,27 @@
+#identitéSection{
+  background-color: cyan;
+}
+
+#identitéSection legend{
+  background-color: cyan;
+}
+
+#adresseSection{
+  background-color: purple;
+}
+
+#adresseSection legend{
+  background-color: purple;
+}
+
+#réglementSection{
+  background-color: pink;
+}
+
+#réglementSection legend{
+  background-color: pink;
+}
+
+#carteSelection{
+  margin-left: 70px;
+}
