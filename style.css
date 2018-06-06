@@ -1,25 +1,25 @@
 #identitéSection{
-  background-color: cyan;
+  background-color: rgb(37, 116, 169);
 }
 
 #identitéSection legend{
-  background-color: cyan;
+  background-color: rgb(37, 116, 169);
 }
 
 #adresseSection{
-  background-color: purple;
+  background-color: rgb(154, 18, 179);
 }
 
 #adresseSection legend{
-  background-color: purple;
+  background-color: rgb(154, 18, 179);
 }
 
 #réglementSection{
-  background-color: pink;
+  background-color: rgb(219, 10, 91);
 }
 
 #réglementSection legend{
-  background-color: pink;
+  background-color: rgb(219, 10, 91);
 }
 
 #carteSelection{
