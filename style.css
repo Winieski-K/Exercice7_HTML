@@ -1,27 +1,12 @@
-#identitéSection{
-  background-color: rgb(37, 116, 169);
+ul{
+  list-style-type: none;
 }
-
-#identitéSection legend{
-  background-color: rgb(37, 116, 169);
+.form1{
+  background-color: #2574A9;
 }
-
-#adresseSection{
-  background-color: rgb(154, 18, 179);
+.form2{
+  background-color: #9A12B3;
 }
-
-#adresseSection legend{
-  background-color: rgb(154, 18, 179);
-}
-
-#réglementSection{
-  background-color: rgb(219, 10, 91);
-}
-
-#réglementSection legend{
-  background-color: rgb(219, 10, 91);
-}
-
-#carteSelection{
-  margin-left: 70px;
+.form3{
+  background-color: #DB0A5B;
 }
